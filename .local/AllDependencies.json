@@ -17673,19 +17673,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thiag\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\tnegherb\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "BasicsOfUIAutomation",
       "projectName": "BasicsOfUIAutomation",
-      "projectPath": "C:\\Users\\thiag\\source\\repos\\tnegherbon\\UiPath\\UiPath-BasicsOfUIAutomation\\.local",
-      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\source\\repos\\tnegherbon\\UiPath\\UiPath-BasicsOfUIAutomation\\.local",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ]
+      "projectPath": "C:\\Users\\tnegherb\\Documents\\UiPath\\UiPath-BasicsOfUIAutomation\\.local",
+      "packagesPath": "C:\\Users\\tnegherb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tnegherb\\Documents\\UiPath\\UiPath-BasicsOfUIAutomation\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
