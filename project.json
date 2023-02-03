@@ -1,7 +1,7 @@
 {
   "name": "BasicsOfUIAutomation",
   "description": "Test the concepts of UI Automation",
-  "main": "Main.xaml",
+  "main": "RPA Challenge.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.17.0-preview]",
     "UiPath.System.Activities": "[22.10.4]",
@@ -11,7 +11,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.12.0.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -45,8 +45,8 @@
   "expressionLanguage": "CSharp",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "46b42d13-a63f-41e8-83f1-3dec717ea4e3",
+      "filePath": "RPA Challenge.xaml",
+      "uniqueId": "a19280b9-8181-4ed2-8445-3fa8bb859071",
       "input": [],
       "output": []
     }
